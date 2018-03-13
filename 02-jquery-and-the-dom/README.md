@@ -4,20 +4,28 @@
 
 *jQuery is a JavaScript library and a powerful tool in web development that handles a variety of common tasks. Today we will be exploring how to use jQuery to interact with the DOM: selection, updating content, and traversal.*
 
-## Readings
-
-* Javascript & jQuery: pages 293-325
-  * (Context: 293-301; Essential: 310-325; Reference: 302-309)
-
 ## Daily Plan
-<!-- Below is a template. Please delete, change, update as you see fit... -->
-- Notes:
-  - All the things are awesome!
 
-- Code Review
-- New Material
-- Code Demos
-- Lab Preview
+**Code review on the prior lab**
+
+`10-minute break`
+
+**jQuery and the DOM**
+
+- Slides: jQuery and the DOM
+- Duckett JS textbook: pp.293-325 are a reference
+- [jQuery Cheat sheet](http://oscarotero.com/jquery)
+- jQuery: Store it locally or use a CDN?
+- jQuery demo code
+
+`10-minute break`
+
+**Prep for the next lab**
+
+  - Look at a working version
+  - Overview: directory structure
+  - Overview: how the lab code works
+  - Look at the TODOs and any REVIEW items
 
 ## Learning Objectives
 
@@ -28,3 +36,7 @@
 * Differentiate between certain methods & the process of chaining.
 * Understand proper `<script>` loading order in HTML.
 
+## Readings
+
+* Javascript & jQuery: pages 293-325
+  * (Context: 293-301; Essential: 310-325; Reference: 302-309)
