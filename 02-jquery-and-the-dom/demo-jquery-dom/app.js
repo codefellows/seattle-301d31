@@ -2,10 +2,10 @@
 
 //element
 // vanillaJS
-document.getElementsByTagName('li');
+let x = document.getElementById('first');
 // jQuery
 // jQuery();
-$('li');
+// let $y = $('#first');
 
 //class
 // vanillaJS
@@ -26,17 +26,17 @@ $('#nav li');
 $('ul > li');
 
 //attribute
-// $('input[name="textbox"]');
-// $('input[type="number"]');
+$('input[name="textbox"]');
+$('input[type="number"]');
 
 //get text of the matched element(s)
-// $('h2').text();
+$('h2').text();
 
 //set text of the matched element(s)
-// $('h2').text('Sam is awesome!!!!!');
+$('h2').text('Sam is awesome!!!!!');
 
 //get the html of the matched element(s)
-// $('p').html();
+$('p').html();
 
 //set the html of the matched element(s)
 // $('p').html('new content');
@@ -53,19 +53,19 @@ $('ul > li');
 // Give it content
 // Append it
 // jQuery
-// $('ul').append('<li>One</li>');
-// $('ul').append('<li>Two</li>');
-// $('ul').append('<li>Three</li>');
+$('ul').append('<li>One</li>');
+$('ul').append('<li>Two</li>');
+$('ul').append('<li>Three</li>');
 
 //make a clone
 // let $ulClone = $('ul').clone();
-// $('header').append($ulClone);
+// $ulClone.append('<li>BANANAS</li>');
 
 //remove an element from the DOM, returns the removed element
-// $('h2').remove();
+$('h2').remove();
 
 //empty out the contents of the element
-// $('main').empty();
+$('main').empty();
 
 //run a command as soon as the DOM loads
 // $(document.ready(function() {
