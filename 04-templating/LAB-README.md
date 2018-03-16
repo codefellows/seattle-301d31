@@ -2,7 +2,7 @@
 ===
 ## Code Wars Challenge
 
-Complete [today's Kata](https://www.codewars.com/kata/simple-validation-of-a-username-with-regex) and follow the submission instructions from Lab 01.
+Complete [today's Kata](https://www.codewars.com/kata/alternate-capitalization) and follow the submission instructions from Lab 01.
 
 ## Lab 04 Submission Instructions
 Follow the submission instructions from Lab 01.
