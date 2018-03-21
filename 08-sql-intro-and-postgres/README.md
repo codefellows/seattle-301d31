@@ -11,7 +11,7 @@
 ## Readings
 <!-- List of readings required for this content; readings being completed by the start of this lecture -->
 * [SQLBolt (Intro, Lessons 1-4, 13-18)](http://sqlbolt.com/)
-* [A Primer on SQL](https://leanpub.com/aprimeronsql/read) (Reference)
+* [A Primer on SQL](https://openlibra.com/en/book/a-primer-on-sql-3rd-edition) (Click on the blue "Download" button)
 
 ## Daily Plan
 <!-- Below is a template. Please delete, change, update as you see fit... -->
