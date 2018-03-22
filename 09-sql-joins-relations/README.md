@@ -5,21 +5,50 @@
 
 *The purpose of this class is to introduce the concepts of database normalization through the use of SQL joins.*
 
-## Readings
-<!-- List of readings required for this content; readings being completed by the start of this lecture -->
-* [SQLBolt (Lessons 6-7) (Essential)](http://sqlbolt.com/lesson/select_queries_with_joins)
-* [A Primer on SQL (Chapter 11) (Reference)](https://leanpub.com/aprimeronsql/read#leanpub-auto-understanding-joins)
-* [Visual Guide to SQL Joins](http://www.codeproject.com/Articles/33052/Visual-Representation-of-SQL-Joins)
-
 ## Daily Plan
-<!-- Below is a template. Please delete, change, update as you see fit... -->
-- Notes:
-  - All the things are awesome!
 
-- Code Review
-- New Material
-- Code Demos
-- Lab Preview
+**Code Review!!**
+
+`10 minute break`
+
+**Slides on SQL joins**
+
+Also see this [reference document on joins](joins.md)
+
+- ##### Normalization & Joins
+
+	- Database Relationships
+	- 1:1 Rel
+	- 1:Many / Many:1 Rel
+	- Many:Many Rel (Includes Junction Tables)
+	- Self-referencing Rel
+
+- ##### Database Normalization
+
+	- Remove duplicate data
+	- Minimize database redesign
+	- Minimize modification anomalies
+
+- ##### Joins
+
+- Understanding Primary and Foreign Keys
+	- Discuss how these keys are related and can be used for database normalization
+
+- Inner Join
+	- Discuss syntax
+	- Discuss concepts
+
+- High Level Overview of Other Join types
+
+**SQL Joins Demo**
+
+`10 minute break`
+
+**Demo on Client-Side CRUD Testing**
+
+**Lab Prep**
+
+Be sure to carefully follow the setup instructions in the lab README to get the  lab up and running. You need to do a **DROP TABLE** on the ***articles*** table from the prior lab to prevent problems. Now we have two tables, one of which, 'articles', is the same name as the table we used previously but has a different structure, so it needs to be obliterated and shown no mercy and killed with fire from space.
 
 ## Learning Objectives
 <!--
@@ -36,3 +65,11 @@ ABCD:
 - Have familiarity with queries using SQL that select data from across multiple tables
 - Have familiarity with different relationships in database tables
 
+## Readings
+<!-- List of readings required for this content; readings being completed by the start of this lecture -->
+
+* [SQLBolt (Lessons 6-7) (Essential)](http://sqlbolt.com/lesson/select_queries_with_joins)
+
+* [A Primer on SQL (Chapter 11) (Reference)](https://leanpub.com/aprimeronsql/read#leanpub-auto-understanding-joins)
+
+* [Visual Guide to SQL Joins](http://www.codeproject.com/Articles/33052/Visual-Representation-of-SQL-Joins)
