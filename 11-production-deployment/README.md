@@ -12,13 +12,26 @@
 
 ## Daily Plan
 <!-- Below is a template. Please delete, change, update as you see fit... -->
-- Notes:
-  - All the things are awesome!
 
-- Code Review
-- New Material
-- Code Demos
-- Lab Preview
+*Today, we will work through the following list. We will let things be a little open-ended, without scheduling breaks in particular places, and just take breaks when we feel like we need them. There will be times today where lecture will seem more like lab time, and moments where we need to pause and get everyone up to speed before we move on. The goal is to finish by 5:15-5:30.*
+
+**Quick observations on survey responses**
+
+**Code review**
+
+**Slides: Deployments**
+
+**Slides: Heroku**
+
+**Discussion: Environments**
+
+**Overview of book app project architecture**
+
+**Look at book app wireframes**
+
+**Review of the book app README**
+
+**Start building the book app!**
 
 ## Learning Objectives
 <!--
