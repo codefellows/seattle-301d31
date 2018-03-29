@@ -1,0 +1,14 @@
+* {
+  font-family: Helvetica, sans-serif;
+}
+
+input {
+  display: block;
+  padding: 10px;
+  margin: 5px;
+}
+
+body {
+  width: 500px;
+  margin: 0px auto;
+}
