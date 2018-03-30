@@ -5,18 +5,15 @@
 
 - Reminder: the entrance exam for the 401 courses (which doubles as the final exam for this course) will be published late this afternoon and be available until 11:59pm Sunday. It is a graded portion of this course, regardless of your intent to advance to a 401 course.
 
-- The exam is open-book, open-Google, open-Stack_Overflow, whatever resources you want to use. The exam is designed to be, in spots, a little bit beyond what has been covered. The intent in those spots is to measure resourcefulness and ability to adapt and figure something out. Give yourselves adequate time for the exam: 1-2 hours depending if you are fast or slow on these kinds of things.
+- The exam is open-book, open-Google, open-Stack_Overflow, whatever resources you want to use. The exam is designed to be, in spots, a little bit beyond what has been covered. The intent in those spots is to measure resourcefulness and ability to adapt and figure something out. Give yourselves adequate time for the exam: 1-2 hours depending if you are fast or slow on these kinds of things. Expect that this exam will take a little longer than the exam at the end of Code 201.
 
 ## Daily Plan
 
+**Where were we at the end of 201? [1](http://thecomplaintbox.tech) [2](https://ggrieb.github.io/death-becomes-you/) [3](https://dmurphy90.github.io/201_NEXT/)[4](https://deliman206.github.io/fetch/) [5](https://jimmychang94.github.io/catOutOfTheBag/) [6](https://keitheck.github.io/201-final-project/) [7](https://hoganl...onderful-day/) [8](https://dahby.github.io/Seattle-Brewery-Finder/pages/home.html) [9](http://spookysays.site/)**
+
 **Review of the course**
 
-- Think about if there are any topics you would like to review or revisit. We will open the second hour of class with those topics.
-- Where were we at the end of 201? [1](http://workoutchooser.site/) [2](https://ncarignan.github.io/Card-Fellows/) [3](https://ccloops.github.io/quiz-fellows/index.html) [4](https://queenskid.github.io/APFT-Coach/) [5](catfight.me) [6](http://layoutgenerator.online/) [7](https://willjreid.github.io/procrastinate/index.html) [8](https://twofacefear.github.io/dnd-character-creator/)
-
-**Code Review, Q&A, Booklist App Debugging (JB, Allie, Sam)**
-
-`BREAK (10 minutes)`
+- Let's review the plusses and minuses of the three different types of application architecture we have seen.
 
 **Any requested topics for more specific review? Let's make a list!**
 
@@ -24,7 +21,9 @@
 - (topic 2?)
 - (topic 3?)
 
-**Let's look at a few prior 301 projects...**
+`BREAK (10-15 minutes)`
+
+**Links to a few prior 301 projects...**
 
 - [Seattle Field Finder](https://field-finder.herokuapp.com/)
 - [The 4th Bling](https://bling-4th-the-money.herokuapp.com/)
@@ -38,18 +37,16 @@
 
 **Final projects: Let's go over the requirements!**
 
-- Day [16](https://github.com/codefellows/seattle-301d20/blob/master/16-project-week-day-1/README.md): Getting started
-- Day [17](https://github.com/codefellows/seattle-301d20/blob/master/17-project-week-day-2/README.md): Big buildout day
-- Day [18](https://github.com/codefellows/seattle-301d20/blob/master/18-project-week-day-3/README.md): Aim for MVP
-- Day [19](https://github.com/codefellows/seattle-301d20/blob/master/19-project-week-day-4/README.md): Stretch goals, refinements
-- Day [20](https://github.com/codefellows/seattle-301d20/blob/master/19-project-week-day-4/README.md): Presentations! `Note: project requirements are in this document`
+- Day [16](https://github.com/codefellows/seattle-301d31/blob/master/16-project-week-day-1/README.md): Getting started
+- Day [17](https://github.com/codefellows/seattle-301d31/blob/master/17-project-week-day-2/README.md): Big buildout day
+- Day [18](https://github.com/codefellows/seattle-30131/blob/master/18-project-week-day-3/README.md): Aim for MVP
+- Day [19](https://github.com/codefellows/seattle-301d31/blob/master/19-project-week-day-4/README.md): Stretch goals, refinements
+- Day [20](https://github.com/codefellows/seattle-301d31/blob/master/19-project-week-day-4/README.md): Presentations! `Note: project requirements are in this document`
 - Do not forget the associated Canvas assignments! One is a group submission and the other is an individual submission!
-
-`BREAK (10 minutes)`
 
 **Additional topics related to final projects**
 
-- General API craziness
+- General API craziness (keys, tokens, data structure, etc.)
 - [CORS & JSONP](https://dev.socrata.com/docs/cors-and-jsonp.html) • [MDN reference](https://developer.mozilla.org/en-US/docs/Web/HTTP/Access_control_CORS) • [Wikipedia](https://en.wikipedia.org/wiki/Cross-origin_resource_sharing)
 - Async fun... it'll happen to you!
 - Reminder: [JSONView](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc?hl=en)
@@ -65,7 +62,7 @@
 	- Discuss project possibilities with your team
 	- Begin testing/experimenting with APIs
 	- Apply for API access if necessary! This is important and necessary for *some* APIs that require a key/token/etc.
-	- As your ideas are coming together, bounce things off Allie, JB, Sam, Global Dustin, and Ron to help manage project scope. Ideally these conversations can be held in group meetings with the entire team and all of the instructional staff, as much as possible.
+	- As your ideas are coming together, bounce things off Sam and the TAs to help manage project scope. Ideally these conversations can be held in group meetings with the entire team and all of the instructional staff, as much as possible.
 
 - Over the weekend
 	- rest (not REST)
@@ -73,10 +70,12 @@
 	- breathe
 	- recuperate
 	- plan to plan to plan with your project team
+	- get to any resubmits
 	- Take the 301 Final Exam (allow a couple of hours for it)
 
 - Monday morning
 	- Get together with your team and complete the project proposal as outlined in the Day 16 README doc.
+	- Establish a "Group Agreement" document (see the adjacent doc in this repo for more information)
 	- Be sure to have a plan in place for your GitHub procedures within your team. This should be written down or shared in a document as THE source of truth.
 	- In addition to the project itself, be sure to put together a plan for how your team will address the problem domain and deconstruct it into tasks/TODO items.
 	- When your proposal is complete, meet with the instructional staff to get it reviewed and approved. After that you are ready to start building.
@@ -85,8 +84,8 @@
 	- Standup meeting with instructional staff sometime during the morning
 	- You should do at least one other standup with your team each day
 	- You will have a daily report to fill out and submit in Canvas at the end of each day: don't forget these!
-	- Some subset of the instructional staff will be available to you between 8:00a and 7:00p each day.
-- Final presentations are at noon on Friday 11/17. Note that 3 other CF classes are doing presentations that day, so campus will be busy! And don't forget that the **[Code Fellows Merry Thankmas Party](https://www.eventbrite.com/e/code-fellows-merry-thankmas-party-tickets-37823773926)** is that evening!
+	- Some subset of the instructional staff will be available to you between 8:00a and 6:00p each day.
+- Final presentations will be the afternoon of Friday, April 6, at 1:30pm. We are the only class presenting that day. We'll do a brief recap meeting for 15-20 minutes after presentations.
 
 ## Learning Objectives
 <!--
