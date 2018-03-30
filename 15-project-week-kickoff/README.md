@@ -14,7 +14,7 @@
 - Think about if there are any topics you would like to review or revisit. We will open the second hour of class with those topics.
 - Where were we at the end of 201? [1](http://workoutchooser.site/) [2](https://ncarignan.github.io/Card-Fellows/) [3](https://ccloops.github.io/quiz-fellows/index.html) [4](https://queenskid.github.io/APFT-Coach/) [5](catfight.me) [6](http://layoutgenerator.online/) [7](https://willjreid.github.io/procrastinate/index.html) [8](https://twofacefear.github.io/dnd-character-creator/)
 
-**Code Review, Q&A, Booklist App Debugging **
+**Code Review, Q&A, Booklist App Debugging (JB, Allie, Sam)**
 
 `BREAK (10 minutes)`
 
@@ -65,7 +65,7 @@
 	- Discuss project possibilities with your team
 	- Begin testing/experimenting with APIs
 	- Apply for API access if necessary! This is important and necessary for *some* APIs that require a key/token/etc.
-	- As your ideas are coming together, bounce things off the instructor(s) and TA(s) to help manage project scope. Ideally these conversations can be held in group meetings with the entire team and all of the instructional staff, as much as possible.
+	- As your ideas are coming together, bounce things off Allie, JB, Sam, Global Dustin, and Ron to help manage project scope. Ideally these conversations can be held in group meetings with the entire team and all of the instructional staff, as much as possible.
 
 - Over the weekend
 	- rest (not REST)
@@ -86,6 +86,7 @@
 	- You should do at least one other standup with your team each day
 	- You will have a daily report to fill out and submit in Canvas at the end of each day: don't forget these!
 	- Some subset of the instructional staff will be available to you between 8:00a and 7:00p each day.
+- Final presentations are at noon on Friday 11/17. Note that 3 other CF classes are doing presentations that day, so campus will be busy! And don't forget that the **[Code Fellows Merry Thankmas Party](https://www.eventbrite.com/e/code-fellows-merry-thankmas-party-tickets-37823773926)** is that evening!
 
 ## Learning Objectives
 <!--
