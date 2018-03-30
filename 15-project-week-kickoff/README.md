@@ -9,7 +9,7 @@
 
 ## Daily Plan
 
-**Where were we at the end of 201? [1](http://thecomplaintbox.tech) [2](https://ggrieb.github.io/death-becomes-you/) [3](https://dmurphy90.github.io/201_NEXT/)[4](https://deliman206.github.io/fetch/) [5](https://jimmychang94.github.io/catOutOfTheBag/) [6](https://keitheck.github.io/201-final-project/) [7](https://hoganl...onderful-day/) [8](https://dahby.github.io/Seattle-Brewery-Finder/pages/home.html) [9](http://spookysays.site/)**
+**Where were we at the end of 201? [1](http://thecomplaintbox.tech) [2](https://ggrieb.github.io/death-becomes-you/) [3](https://dmurphy90.github.io/201_NEXT/)[4](https://deliman206.github.io/fetch/) [5](https://jimmychang94.github.io/catOutOfTheBag/) [6](https://keitheck.github.io/201-final-project/) [7](https://hoganl.github.io/have-a-wonderful-day/) [8](https://dahby.github.io/Seattle-Brewery-Finder/pages/home.html) [9](http://spookysays.site/)**
 
 **Review of the course**
 
